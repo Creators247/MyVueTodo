@@ -66,6 +66,7 @@ p {
   max-width: 95%;
   flex-wrap: wrap;
   align-self: center;
+  justify-content: center;
 }
 .each-todo {
   gap: 5px;

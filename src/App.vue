@@ -65,8 +65,7 @@ export default {
   methods: {
     fetchTodos() {
       this.todos = [
-        { id: 1, title: "Learn Vue.js" },
-        { id: 2, title: "Build a Vue app" },
+        { id: 1, title: "Testing Microphone" },
       ];
     },
 
